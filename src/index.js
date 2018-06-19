@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
-
+import "./css/index.css"
 class App extends Component {
   render() {
-    return <div>哦哦哦哦哦</div>;
+    return <div>哦哦哦哦哦哦</div>;
   }
 }
 

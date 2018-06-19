@@ -8,9 +8,8 @@
  * @Last Modified by: chenlinjuan
  * @Last Modified time: 2018-05-23 15:44:02
  */
-
-const merge = require("webpack-merge");
 const path = require("path");
+const merge = require("webpack-merge");
 // 添加plugins
 const chalk = require("chalk");
 const webpack = require("webpack");
